@@ -24,8 +24,13 @@ img {
 }
 .container {
     display: flex;
-    width: 1440px;
+    width: 1158px;
+    padding: 0 15px;
 } 
+.navigation {
+    display: flex;
+    align-items: center;
+}
 .header {
     display: flex;
     max-width: 100%;
@@ -71,6 +76,7 @@ img {
         margin-left: 156px;
         margin-top: 24px;
         margin-bottom: 24px;
+        margin-right: 76px;
 }
 .accent {
     color: #2e2f42;
