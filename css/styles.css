@@ -14,7 +14,7 @@ ul {
     padding-left: 0;
 }
 img {
-    display: flex;
+    display: block;
     max-width: 100%;
 }
 .body {
@@ -31,6 +31,7 @@ img {
     max-width: 100%;
     width: 1440px;
         height: 72px;
+        border-bottom: 1px solid #e7e9fc;
 }
 .nav-link {
     display: flex;
