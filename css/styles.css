@@ -135,7 +135,7 @@ p{
         letter-spacing: 0.02em;
         color: #434455;
 }
-.proffesion {
+.profession {
     font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -195,6 +195,7 @@ color: #404bbf;
         color: #2e2f42;
         text-transform: capitalize;
         margin-top: 120px;
+        margin-bottom: 72px;
 }
 
 .secondheaderteam {
@@ -228,6 +229,7 @@ color: #404bbf;
             width: 264px;
             margin-top: 72px;
             width: calc((100% - 72px) / 4);
+            background-color: #FFFFFF;
 }
 .workerinform {
     padding: 32px 0;
@@ -240,6 +242,23 @@ color: #404bbf;
 .element {
 width: calc((100% - 72px) / 4);
 }
+.sectionfour {
+    padding-top: 120px;
+}
+.projects {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+}
+.done {
+    width: calc((100% - 48px) / 3);
+}
+.doneprojects {
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+}
  .footer {
     background-color: #2e2f42;
 }
@@ -248,9 +267,6 @@ width: calc((100% - 72px) / 4);
 }
 .footer-text {
     color: #F4F4FD;
-}
-.workers {
-    background-color: #FFFFFF;
 }
 a {
     text-decoration: none;
