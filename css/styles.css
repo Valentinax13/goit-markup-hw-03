@@ -26,16 +26,11 @@ img {
     color: #434455;
     background-color: #ffffff;
 }
-.containerinheader {
-    width: 1158px;
-        padding: 0 15px;
-        margin: 0 auto;
-        display: flex;
-}
 .container {
     width: 1158px;
     padding: 0 15px;
     margin: 0 auto;
+    display: flex;
 } 
 .navigation {
     display: flex;
