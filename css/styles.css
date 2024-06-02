@@ -31,7 +31,7 @@ img {
     padding: 0 15px;
     margin: 0 auto;
 } 
-.container .header-container {
+.container.header-container {
     display: flex;
 }
 .navigation {
