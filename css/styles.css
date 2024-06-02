@@ -209,7 +209,7 @@ color: #404bbf;
     margin-bottom: 72px;
 }
 .secondheadernone {
-    overflow: hidden;
+    visibility: hidden;
 }
 .sectionthree {
     width: 1440px;
@@ -270,7 +270,6 @@ width: calc((100% - 72px) / 4);
 }
 .accentsec {
    color: #f4f4fd; 
-display: inline-block;
 }
 .footer-text {
     color: #F4F4FD;
